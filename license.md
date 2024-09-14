@@ -1,5 +1,3 @@
----
-
 ## **Terms and Conditions for Malgoroth**
 
 **Effective Date: September 2024**
@@ -55,16 +53,13 @@ The Licensor reserves the right to amend these Terms and Conditions at any time.
 
 For any questions or concerns regarding these Terms and Conditions or the Malgoroth License Agreement, please contact the Licensor at:
 
-**Licensor Name**  
-**Email Address**  
-**Physical Address**
+**@absalom.vs**  on discord ( if my discord acc is taken down i will re-upload a different account here within this license, ) 
 
 ---
 
-**Copyright [2024] [Your Name]**
+**Copyright [2024] [absalom]**
 
 These Terms and Conditions are part of the Malgoroth License Agreement. By using or distributing the Work, you agree to comply with both.
 
 ---
 
-This draft covers the essential aspects of using and distributing the code, including restrictions, ownership, liability, and contact information. For a legally binding agreement, it's always best to consult with a legal professional to ensure that your terms are comprehensive and enforceable.
