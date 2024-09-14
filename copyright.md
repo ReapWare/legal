@@ -1,6 +1,3 @@
-To create a general copyright notice for all your works, we can use a standard yet customizable format. Here's a template that you can apply broadly:
-
----
 
 **Copyright Notice for [@absalom.vs] Works**
 
@@ -29,6 +26,4 @@ All works, including but not limited to software, documentation, designs, and me
 
 **Copyright © [2024] [@absalom.vs]. All Rights Reserved.**
 
---- 
 
-You can adjust the specifics depending on the nature of each project. Let me know if you need further customization or additional clauses!
